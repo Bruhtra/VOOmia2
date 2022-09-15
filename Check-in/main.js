@@ -11,5 +11,5 @@ function Mandar(){
     document.write(' Tags Azuis - ' + gp2+ '<br>');
     document.write(' Tags Amarelas - ' + gp3+ '<br>');
     document.write('</h2>')
-    document.write('<a href="http://127.0.0.1:5500/Inicio/index.html"><button>INICIO</button></a>')
+    document.write('<a href="https://bruhtra.github.io/VOOmia/Inicio/index.html"><button>INICIO</button></a>')
 }
